@@ -51,6 +51,8 @@ This project is designed for use in scenarios such as asset tracking, vehicle mo
    - LoRa **RESET** -> ESP32 **GPIO14**
    - LoRa **DIO0** -> ESP32 **GPIO2**
 
+![image](https://github.com/user-attachments/assets/cbf50f58-dec3-445b-9a72-9baec00a8b6e)
+
 
 ## Steps for Receiver (ESP32 with LoRa):
 
@@ -62,6 +64,9 @@ This project is designed for use in scenarios such as asset tracking, vehicle mo
    - LoRa **CS** -> ESP32 **GPIO5**
    - LoRa **RESET** -> ESP32 **GPIO14**
    - LoRa **DIO0** -> ESP32 **GPIO2**
+  
+![image](https://github.com/user-attachments/assets/80022183-fb3f-4a08-8d75-4dc4e0623fde)
+
 
 ## Frequency Selection (LoRa):
 - **LoRa Frequency**: The frequency used for LoRa communication depends on your region:
@@ -69,4 +74,21 @@ This project is designed for use in scenarios such as asset tracking, vehicle mo
   - 868 MHz (Europe)
   - 915 MHz (North America)
   
+##Screenshots:
+**Transmitter Serial Monitor: **
+![image](https://github.com/user-attachments/assets/156c53f1-ab15-4387-a0f9-cc6a7cd3204d)
+
+**Receiver Serial Monitor: ** 
+![image](https://github.com/user-attachments/assets/ab2f95df-bc1e-4601-a4e4-ae8fd96abf23)
+
+![image](https://github.com/user-attachments/assets/d0401dc3-982a-4fc3-85a7-6eef61ccd60f)
+
+**ThingSpeak**
+![image](https://github.com/user-attachments/assets/98560a5c-cd6a-462a-95ff-f973b0c28f08)
+
+**Blynk**
+![image](https://github.com/user-attachments/assets/21830536-7523-4912-bd59-8b024ec5201b)
+
+
+
 
