@@ -74,7 +74,7 @@ This project is designed for use in scenarios such as asset tracking, vehicle mo
   - 868 MHz (Europe)
   - 915 MHz (North America)
   
-##Screenshots:
+## Screenshots:
 **Transmitter Serial Monitor:**
 ![image](https://github.com/user-attachments/assets/156c53f1-ab15-4387-a0f9-cc6a7cd3204d)
 
