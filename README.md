@@ -75,10 +75,10 @@ This project is designed for use in scenarios such as asset tracking, vehicle mo
   - 915 MHz (North America)
   
 ##Screenshots:
-**Transmitter Serial Monitor: **
+**Transmitter Serial Monitor:**
 ![image](https://github.com/user-attachments/assets/156c53f1-ab15-4387-a0f9-cc6a7cd3204d)
 
-**Receiver Serial Monitor: ** 
+**Receiver Serial Monitor** 
 ![image](https://github.com/user-attachments/assets/ab2f95df-bc1e-4601-a4e4-ae8fd96abf23)
 
 ![image](https://github.com/user-attachments/assets/d0401dc3-982a-4fc3-85a7-6eef61ccd60f)
